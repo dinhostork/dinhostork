@@ -1,16 +1,19 @@
-### Hi there 👋
+# Dinho Stork<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif" width="30px">
 
-<!--
-**dinhostork/dinhostork** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> Hello world!&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
 
-Here are some ideas to get you started:
+<p>
+  <em>
+   I am an undergraduate student of Computer Engineering at the  <a href="https://ufrb.edu.br/"> Federal University of Recôncavo da Bahia. </a> <br>
+    A budding <b>Software Developer</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> and a <b>Electronic    Enthusiast,</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px"><br>
+    And Owner, Developer, and Computer Network Technician of <a href="https://stork.network"> Stork Network group </a> .
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Linkedin Badge](https://img.shields.io/badge/-dinhostork-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dinhostork/)](https://www.linkedin.com/in/dinhostork/)
+[![Telegram Badge](https://img.shields.io/badge/-dinhostork-black?style=flat-square&logo=telegram&logoColor=white&link=https://t.me/dinhostork)](https://t.me/dinhostork)
+<br>
+
+
+![Shubhamdeep's github stats](https://github-readme-stats.vercel.app/api?username=dinhostork&show_icons=true&hide_border=true)
+
+<br>
