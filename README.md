@@ -6,7 +6,6 @@
   <em>
    I am an undergraduate student of Computer Engineering at the  <a href="https://ufrb.edu.br/"> Federal University of Recôncavo da Bahia. </a> <br>
     A budding <b>Software Developer</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> and a <b>Electronic    Enthusiast,</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px"><br>
-    And Owner, Developer, and Computer Network Technician of <a href="https://stork.network"> Stork Network group </a> .
 </p>
 
 [![Linkedin Badge](https://img.shields.io/badge/-dinhostork-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dinhostork/)](https://www.linkedin.com/in/dinhostork/)
