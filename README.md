@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-I'm Dinho Stork 🦅, a passionate self-taught full-stack developer and an undergraduate student of Computer Engineering at the Federal University of Recôncavo da Bahia. I'm also a software developer and an electronic enthusiast. My passion for software lies in creating high-impact solutions with a focus on experience, architecture, and code quality.
+I'm Dinho Stork 🦅, a self-taught full-stack developer and an undergraduate student of Computer Engineering at the Federal University of Recôncavo da Bahia. I'm also a software developer and an electronic enthusiast. My passion for software lies in creating high-impact solutions with a focus on experience, architecture, and code quality.
 
 ---
 
