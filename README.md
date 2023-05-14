@@ -14,7 +14,7 @@ I'm Dinho Stork 🦅, a self-taught full-stack developer and an undergraduate st
 
 
 
-![tools](https://img.shields.io/static/v1?label=&message=socials:&color=555&style=flat-square) [![instagram](https://img.shields.io/static/v1?logo=instagram&label=&message=instagram&color=111&logoColor=AAA&style=flat-square)][instagram] [![linkedin](https://img.shields.io/static/v1?logo=linkedin&label=&message=linkedin&color=111&logoColor=AAA&style=flat-square)][linkedin] [![medium](https://img.shields.io/static/v1?logo=medium&label=&message=medium&color=111&logoColor=AAA&style=flat-square)][medium] [![facebook](https://img.shields.io/static/v1?logo=facebook&label=&message=facebook&color=111&logoColor=AAA&style=flat-square)][facebook]
+![socials](https://img.shields.io/static/v1?label=&message=socials:&color=555&style=flat-square) [![instagram](https://img.shields.io/static/v1?logo=instagram&label=&message=instagram&color=111&logoColor=AAA&style=flat-square)][instagram] [![linkedin](https://img.shields.io/static/v1?logo=linkedin&label=&message=linkedin&color=111&logoColor=AAA&style=flat-square)][linkedin] [![medium](https://img.shields.io/static/v1?logo=medium&label=&message=medium&color=111&logoColor=AAA&style=flat-square)][medium] [![facebook](https://img.shields.io/static/v1?logo=facebook&label=&message=facebook&color=111&logoColor=AAA&style=flat-square)][facebook]
 
 [instagram]: https://www.instagram.com/dinhostork/
 [linkedin]: https://www.linkedin.com/in/dinhostork/
