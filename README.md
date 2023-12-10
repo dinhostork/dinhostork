@@ -20,4 +20,4 @@ I'm Dinho Stork 🦅, a self-taught full-stack developer and an undergraduate st
 [linkedin]: https://www.linkedin.com/in/dinhostork/
 [medium]: https://medium.com/@dinhostork
 [facebook]: https://www.facebook.com/dinhostork/
-| &nbsp;&nbsp;&nbsp; Website: [https://dinho.live](https://dinho.live) &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; Currently working on: <sub>&#9660; &#9660; &#9660;</sub>
+| &nbsp;&nbsp;&nbsp; Website: [https://dinhostork.com](https://dinhostork.com) &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; Currently working on: <sub>&#9660; &#9660; &#9660;</sub>
